@@ -1,0 +1,11 @@
+{
+  "html": "<div><h1>Hola tito</h1><h2>El subtitol</h2><p>Paràgraf</p><p>Els poetes som així</p></div>",
+  "htmlUser": "<div><h1>Hola Usuari</h1><h2>El subtitol per usuari</h2><p>Paràgraf</p><p>Els poetes som així</p></div>",
+  "seConfig": 
+    {
+      "robots": "noindex,nofollow",
+      "keywords": "hello",
+      "description": "Un strapi que flipes"
+    }
+  
+}
